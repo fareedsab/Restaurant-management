@@ -1,0 +1,4 @@
+fareed 123
+ahsan 456
+affan 789
+sirbasit print

@@ -1,0 +1,5 @@
+1 chicken-biryani 130.00 50
+2 Broast-Leg 230.00 46
+3 zinger-burger 200.00 44
+4 frenc-fries 50.00 50
+5 cold-drink 50.00 100

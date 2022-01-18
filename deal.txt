@@ -1,0 +1,5 @@
+1 biryani,burger,colddrink 350.00 89
+2 burger,broast-leg,coldrink 500.00 26
+3 Sandwich+Beef-burger+fries 350.00 50
+4 Biryani+Chicken-burger+fries 250.00 50
+5 Macroni+Zinger-burger+fries 450.00 46
